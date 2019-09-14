@@ -1,0 +1,10 @@
+.git*
+.build
+Package.resolved
+*.xcodeproj
+.idea
+DerivedData
+Dockerfile
+heroku.yml
+Docs
+*.md
